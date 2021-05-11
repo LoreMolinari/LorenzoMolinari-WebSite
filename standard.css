@@ -1,0 +1,38 @@
+#homepage{
+    padding: 50px;
+    height: 100vh;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.profile img{
+    border-radius: 50%;
+    max-width: 40%;
+}
+
+.bannersContainer{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.item{
+    padding: 20px;
+}
+
+.banner{
+    border-radius: 50%;
+    background-color: lightyellow;
+}
+
+.banner a{
+    font-size: 10px;
+}
