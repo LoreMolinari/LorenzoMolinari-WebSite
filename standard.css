@@ -136,12 +136,3 @@ em {
 .ds2{
     margin-top: 15%;
 }
-
-/* Footer */
-.footer{
-    background: linear-gradient(0deg, rgba(0,0,0,.9), rgba(0,0,0,.9));
-    width: 100%;
-    text-align: center;
-    height: 5%;
-}
-
